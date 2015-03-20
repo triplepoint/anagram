@@ -7,7 +7,7 @@ config = {
     'name': 'Anagram',
     'description': 'A library for finding anagrams in a list of words.',
     'author': 'Jonathan Hanson',
-    'download_url': '@TODO - github repo',
+    'download_url': 'https://github.com/triplepoint/anagram',
     'author_email': 'jonathan@jonathan-hanson.org',
     'version': '0.1',
     'install_requires': [],
