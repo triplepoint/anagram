@@ -1,0 +1,16 @@
+# Editors and IDEs
+*.sublime-workspace
+*.sublime-project
+
+# Vagrant files
+/.vagrant/
+
+# Windows image file caches
+Thumbs.db
+
+# Mac folder view config
+.DS_Store
+Desktop.ini
+
+# Python compiled files
+*.py[co]
