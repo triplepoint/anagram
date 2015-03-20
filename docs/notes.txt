@@ -16,3 +16,13 @@ inset, neist, snite, stein, stine, tsine
 _______________________
 
 Ps: We request that the solution be in Python, and you may submit your solution as a github repo or gist. Please let me know if you have any questions or concerns.
+
+
+# Additional Notes
+- To execute the code do:
+ - cd <project_root>
+ - python ./anagram/anagram.py
+
+- to run the tests do:
+ - cd <project_root>
+ - python -m tests.anagram_tests
