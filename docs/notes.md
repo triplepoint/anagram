@@ -1,3 +1,6 @@
+# Build Status
+master: [![Build Status](https://travis-ci.org/triplepoint/anagram.svg?branch=master)](https://travis-ci.org/triplepoint/anagram)
+
 # Challenge Description
 An anagram is a word formed by rearranging the letters of another, like "topside" and "deposit". In some cases, there might be as many (or more) anagrams than there are characters, like "post", "spot", "stop" and "tops".
 
@@ -16,7 +19,6 @@ inset, neist, snite, stein, stine, tsine
 _______________________
 
 Ps: We request that the solution be in Python, and you may submit your solution as a github repo or gist. Please let me know if you have any questions or concerns.
-
 
 # Additional Notes
 - To execute the code do:
